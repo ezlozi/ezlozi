@@ -8,11 +8,11 @@
   <img src="https://komarev.com/ghpvc/?username=koo0ki&style=flat-square&color=blue" alt=""/>
 </div>
 
-> # Hi 👋 My name is Destroy
+> # Hi 👋 My name is Ezlozi
 ---
 
 ### Web / Bots Developer ;)
-I have been developing bots and backend for more than 1 years.
+I have been developing bots and backend for more than 2 years.
 
 ---
 
