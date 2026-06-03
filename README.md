@@ -31,3 +31,5 @@ I have been developing bots and backend for more than 2 years.
 ![](https://github-readme-stats.vercel.app/api?username=Destroycodein&theme=date_night&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Destroycodein&theme=date_night&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Destroycodein&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+# by ezlozi :D
