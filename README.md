@@ -16,7 +16,7 @@ I have been developing bots and backend for more than 2 years.
 
 ---
 
-* 🌍  I'm based in Ukraine! 🇺🇦:
+* 🌍  I'm based in Ukraine! <3
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1400906072847286384) 
